@@ -1,0 +1,8 @@
+heel, Wedges, Louis Vuitton, black, suede, 150.00
+heel, Sandals, Lucky Brand, brown, leather, 20.00
+shoe, Slip-ons, Vans, lavender, canvas, 50.00
+shoe, Loafers, Gucci, dark brown, fake leather, 110.0
+boot, Ankle boots, Ugg, chestnut, suede, 200.00
+boot, Cowboy boots, Lucchese, black, cowhide leather, 70.00
+heel, Stilletos, Givenchy, neon pink, fake leather, 40.00
+sneaker, Sneakers, Nike, black, polyester and rubber, 75.00
