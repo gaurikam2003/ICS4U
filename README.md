@@ -2,7 +2,7 @@
 This repository contains the various programming exercises I completed in Grade 12 Computer Science, ICS4U. This includes data structures, algorithms, recursion, and documentation. 
 
 Data Structures
-Includes classes, objects, and reading and writing from a text file 
+This includes classes, objects, and reading and writing from a text file 
 
 Algorithms
 The program has a simple class with a constructor, two instance variables of different data types, and at least two methods to access the instance variables. 
